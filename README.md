@@ -7,3 +7,4 @@ To run this project clone the repo .
 
 Open command prompt ,Go to the cloned folder run ng serve [note : need to have angular prerequisites already installed]
 
+go to browser and run localhost:4200
